@@ -1,7 +1,7 @@
 <p align="left">
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-orange?colorA=orange&colorB=green"></a>
 <p align="right">
-<a href="#"><img title="Termux update packages" src="https://img.shields.io/badge/Termux%20Packages-cyan?colorA=cyan&colorB=black"></a>
+<a href="#"><img title="Termux update packages" src="https://img.shields.io/badge/Termux-%20Packages-cyan?colorA=cyan&colorB=black"></a>
 </p>
 <p align="center">
 <img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&include_all_commits=true&hide_border=true"/>
