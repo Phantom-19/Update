@@ -22,20 +22,16 @@
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
 
-## `Installation de yutube `:
+## `Installation`:
 
-* `apt install git python2 `
 * `git clone https://github.com/Phantom-19/Update.git`
 * `cd Update`
 ## ` Execution > ` `python2 upd.py`
 
 ##  `Commande unique `:
 ```
-apt install git -y ; git clone git clone https://github.com/Phantom-19/Update.git ; cd Update ; python2 upd.py
+apt install git -y ; apt install python2 -y ; git clone git clone https://github.com/Phantom-19/Update.git ; cd Update ; python2 upd.py
 ```
-
-- [x] 🇨🇮 Faxel 🇨🇮 
-- [x] 🇨🇮I'm the person whom you can never judge.🇨🇮 
 
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
 
