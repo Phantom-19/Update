@@ -13,7 +13,7 @@
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.5-green.svg?"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-08/20-green.svg?"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue"></a>
 <a href="https://github.com/Phantom-19/Update/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Update??color=orange"></a>
 <a href="https://github.com/Phantom-19/Update/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/Update??color=red"></a>
